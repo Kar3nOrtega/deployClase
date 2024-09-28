@@ -1,5 +1,5 @@
 import pickle
-from diabetes import DiabetesData
+#from diabetes import DiabetesData
 from fastapi import APIRouter
 from asignatura import asignatura
 from schemas import schemas
